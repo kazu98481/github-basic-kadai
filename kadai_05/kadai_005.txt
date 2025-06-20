@@ -1,0 +1,14 @@
+1,mkdir git_challenge
+
+2,GUI上でhello_world.txtを作成
+
+3,エディタで内容を記入後
+  git add .\hello_world.txt
+　git commit -m "最初のコミット"
+
+4,エディタで内容を追記後
+　git add .\hello_world.txt
+　git commit -m "2回目のコ ミット"
+
+5,変更履歴表示
+　git log --oneline
